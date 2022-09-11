@@ -14,10 +14,11 @@
   <img align="center" alt="Anna-Replit" height="25" width="80" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
   <img align="center" alt="Anna-InkS" height="25" width="80" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
 </div>
-
+<!--
 ##
 
 <div align="left">
   <a href="https://github.com/annabmv">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabmv&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->

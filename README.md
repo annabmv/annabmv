@@ -1,4 +1,4 @@
-### Hi there, I'm Anna Vercesi.
+### Hi there,
 
 
 - 🔭 I’m currently working with bioinformatics analysis 

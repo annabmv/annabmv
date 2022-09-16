@@ -1,7 +1,8 @@
 ### Hi there,
 
 
-- 🔭 I’m currently working with bioinformatics analysis 
+- 🔭 I’m currently working with bioinformatics
+- 🎓 I have a BSc in biology and MSc in clinical oncology with focus on cancer epigenomics
 - 📚 I’m currently learning Python
 - 😄 Pronouns: She/her
 

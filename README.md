@@ -16,14 +16,11 @@
  </div>
  <div style="display: inline_block">
   <img align="center" alt="Anna-RStudio" height="20" width="80" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
-  <img align="center" alt="Anna-Replit" height="20" width="90" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="center" alt="Anna-VSCode" height="20" width="95" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Anna-InkS" height="20" width="80" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
 </div>
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=annabmv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-![](https://komarev.com/ghpvc/?username=annabmv&color=blue&style=flat&label=Profile+Views)
 
 <!-- Stats created with GPRM ( https://gprm.itsvg.in ); Icons by Icons8 ( https://icons8.com/ ) -->

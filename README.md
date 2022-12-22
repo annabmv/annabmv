@@ -24,6 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=annabmv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=annabmv&icon=3&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=annabmv&color=blue&style=flat&label=Profile+Views)
 
 <!-- Stats created with GPRM ( https://gprm.itsvg.in ); Icons by Icons8 ( https://icons8.com/ ) -->

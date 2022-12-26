@@ -1,7 +1,7 @@
 ## Hi there,
 
 
-- 🔭 I’m actively seeking internships and PhD opportunities in the fields of genomics, epigenetics and bioinformatics
+- 🔭 I’m actively seeking bioinformatics analyst internships and entry-level opportunities
 - 🎓 I have a BSc in biology and MSc in clinical oncology with focus on cancer epigenomics
 - 📚 I’m currently studying Python and Data Analytics
 - 💻 Other interests: Front-end development

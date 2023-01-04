@@ -19,8 +19,8 @@
   <img align="center" alt="Anna-VSCode" height="20" width="95" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Anna-InkS" height="20" width="80" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
 </div>
-
+<!--
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=annabmv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabmv)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Stats created with GPRM ( https://gprm.itsvg.in ); Icons by Icons8 ( https://icons8.com/ ) -->
+Icons by Icons8 ( https://icons8.com/ ) -->

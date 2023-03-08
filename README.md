@@ -2,9 +2,10 @@
 
 
 - 🔭 I’m actively seeking data analyst internships and entry-level opportunities
-- 🎓 I have a BSc in biology and MSc in clinical oncology with focus on cancer epigenomics
-- 📚 I’m currently studying Python and Data Analytics
-- 💻 Other interests: Front-end development
+  *  Areas of interest: Health, Biotech, Education
+- 🎓 I have a BSc in Biology and MSc in Clinical oncology with focus on cancer epigenomics
+- 📚 I’m currently studying Python, Data analytics and Data viualization
+- 💻 Other interests: Front-end development, UI design
 - 😄 Pronouns: She/her
 
 ### Skills:

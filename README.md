@@ -1,7 +1,7 @@
 ## Hi there,
 
 
-- 🔭 I’m actively seeking bioinformatics and data analyst entry-level opportunities
+- 🔭 I’m actively seeking bioinformatics and data analytics entry-level opportunities
   *  Areas of interest: Health, Biotech, Education
 - 🎓 I have a BSc in Biology and MSc in Clinical oncology with focus on cancer epigenomics
 - 📚 I’m currently studying Python, Data analytics and Data visualization

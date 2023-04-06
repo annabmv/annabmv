@@ -1,14 +1,14 @@
 ## Hi there,
 
-
-- 🔭 I’m actively seeking bioinformatics and data analytics entry-level opportunities
+- 🔭 I’m actively seeking data analytics and bioinformatics entry-level opportunities.
   *  Areas of interest: Health, Biotech, Education
-- 🎓 I have a BSc in Biology and MSc in Clinical oncology with focus on cancer epigenomics
-- 📚 I’m currently studying Python, Data analytics and Data visualization
-- 💻 Other interests: Front-end development, UI design
+- 🎓 I have a BSc in Biology and MSc in Clinical oncology with focus on cancer epigenomics.
+- 📚 I’m currently studying Python, SQL, Power BI, statistics, and DataViz.
+- 💻 Other interests: Front-end development, UI design, and Storytelling.
 - 😄 Pronouns: She/her
 
 ### Skills:
+
 <div style="display: inline_block">
   <img align="center" alt="Anna-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Anna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -20,8 +20,9 @@
   <img align="center" alt="Anna-VSCode" height="20" width="95" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Anna-InkS" height="20" width="80" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
 </div>
-<!--
-### GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabmv)](https://github.com/anuraghazra/github-readme-stats)
 
-Icons by Icons8 ( https://icons8.com/ ) -->
+### GitHub Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabmv&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[Bash icon by Icons8: https://icons8.com]: # 

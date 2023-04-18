@@ -23,6 +23,6 @@
 
 ### GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabmv&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![annabmv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annabmv&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 [Bash icon by Icons8: https://icons8.com]: # 

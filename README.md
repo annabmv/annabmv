@@ -2,8 +2,9 @@
 
 - 🔭 I’m actively seeking data analytics entry-level opportunities.
 - 🎓 I have a BSc in Biology and MSc in Clinical Oncology with focus on cancer epigenomics.
-- 📚 I’m currently studying Python, SQL, Power BI, statistics, and DataViz.
-- 💻 Other interests: AI, UI Design and Front-end development, Storytelling.
+  - I'm pursuing a specialization in BI, Big Data and Artificial Intelligence.
+- 📚 I’m currently studying statistics, SQL, Power BI, and DataViz.
+- 💻 Other interests: Front-end development, UI Design, and Storytelling.
 - 😄 Pronouns: She/her
 
 ## Languages and Tools:

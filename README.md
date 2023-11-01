@@ -1,6 +1,6 @@
 # 💫 Hi there!
 
-- 🔭 Analytics Engineer Apprentice.
+- 🔭 Data Analyst Apprentice.
 - 🎓 I have a BSc in Biology and MSc in Clinical Oncology with focus on cancer epigenomics and bioinformatics.
 - 📚 I’m currently studying statistics, SQL, and Power BI.
 - 💻 Other interests: Front-end development, UI Design, and Storytelling.

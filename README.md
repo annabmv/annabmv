@@ -1,8 +1,8 @@
 # 💫 Hi there!
 
-- 🔭 Data Analyst Apprentice.
+- 🔭 Data Analyst with a background in bioinformatics.
 - 🎓 I have a BSc in Biology and MSc in Clinical Oncology with focus on cancer epigenomics and bioinformatics.
-- 📚 I’m currently studying statistics, SQL, and DataViz.
+- 📚 I'm currently pursuing a technical degree in Database Management.
 - 💻 Other interests: Front-end development, UI Design, and Storytelling.
 - 😄 Pronouns: She/her
 

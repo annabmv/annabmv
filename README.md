@@ -2,7 +2,7 @@
 
 - 🔭 Data Analyst with a background in bioinformatics.
 - 🎓 I have a BSc in Biology and MSc in Clinical Oncology with focus on cancer epigenomics and bioinformatics.
-- 📚 I'm currently pursuing an associate degree in Database Management.
+- 📚 I'm currently pursuing an Associate’s Degree in Database Technology.
 - 💻 Other interests: Front-end development, UI Design, and Storytelling.
 - 😄 Pronouns: She/her
 

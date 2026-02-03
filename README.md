@@ -1,9 +1,9 @@
 # Hello there! 👋
 
-- 🔭 Data Analyst with a background in bioinformatics.
+- 🔭 Data Analyst with an academic background.
 - 🎓 I have a BSc in Biology and MSc in Clinical Oncology with focus on cancer epigenomics and bioinformatics.
 - 📚 I'm currently pursuing an Associate’s Degree in Database Technology.
-- 💻 Other interests: Front-end development, UI Design, and Storytelling.
+- 💻 Other interests: DataViz, Storytelling and UX Design.
 - 😄 Pronouns: She/her
 
 ## Languages and Tools:

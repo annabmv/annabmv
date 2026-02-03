@@ -14,7 +14,7 @@
   <img align="center" alt="Anna-SQL" height="35" width="40" src="https://github.com/annabmv/annabmv/assets/64803893/7e22f93d-a67b-41ff-b232-a8adbfb80626">
  </div>
 <div style="display: inline_block">
-  <img align="center" alt="Anna-RStudio" height="20" width="70" src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white">
+  <img align="center" alt="Anna-RStudio" height="20" width="60" src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white">
   <img align="center" alt="Anna-VSCode" height="20" width="120" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Anna-Colab" height="20" width="60" src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252">
 </div>

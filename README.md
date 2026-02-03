@@ -19,15 +19,12 @@
   <img align="center" alt="Anna-Colab" height="20" width="60" src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252">
 </div>
 <div style="display: inline_block">
-  <img align="center" alt="Anna-dbt" height="20" width="50" src="https://img.shields.io/badge/dbt-FF694B.svg?style=flat&logo=dbt&logoColor=white">
+  <img align="center" alt="Anna-dbt" height="20" width="40" src="https://img.shields.io/badge/dbt-FF694B.svg?style=flat&logo=dbt&logoColor=white">
   <img align="center" alt="Anna-PowerBI" height="20" width="65" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat&logo=Power-BI&logoColor=black">
   <img align="center" alt="Anna-Tableau" height="20" width="65" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white">
-  <img align="center" alt="Anna-Looker" height="20" width="65" src="https://img.shields.io/badge/Looker-4285F4.svg?style=flat&logo=Looker&logoColor=white">
 </div>  
 <div style="display: inline_block">
     <img align="center" alt="Anna-Figma" height="20" width="60" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-    <img align="center" alt="Anna-Inkscape" height="20" width="70" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13"/>
-    <img align="center" alt="Anna-Trello" height="20" width="60" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white"/>  
 </div>  
 
 <br> 

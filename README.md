@@ -2,8 +2,8 @@
 
 - 🔭 Data Analyst with an academic background.
 - 🎓 I have a BSc in Biology and MSc in Clinical Oncology with focus on cancer epigenomics and bioinformatics.
-- 📚 I'm currently pursuing an Associate’s Degree in Database Technology.
-- 💻 Other interests: DataViz, Storytelling and UX Design.
+- 📚 I'm currently studying cloud computing and AWS (AWS Certified Cloud Practitioner).
+- 💻 Other interests: DataViz, UX Design and IA.
 - 😄 Pronouns: She/her
 
 ## Languages and Tools:
